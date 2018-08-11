@@ -2,10 +2,10 @@
 Track and log my understanding of the NAFEMS Profession Simulation Engineer (PSE) competency matrix available in [PSE Competency Tracker Website](https://www.psecompetencytracker.org)
 
 ## TOPICS 
-MESM - Mechanics, Elasticity and Strength of Materials \n
-MAS - Materials for Analysis and Simulation \n
-BMPS - Beams, Membranes, Plates and Shells \n
-BIN - Buckling and Instability \n
+* MESM - Mechanics, Elasticity and Strength of Materials \n
+* MAS - Materials for Analysis and Simulation \n
+* BMPS - Beams, Membranes, Plates and Shells \n
+* BIN - Buckling and Instability \n
 
 FEA - Finite Elements Analysis (Core Module) \n
 NGEC - Nonlinear Geometric Effects and Contact \n
