@@ -483,8 +483,7 @@ Hobbacher A (Ed): 'Fatigue Design of Welded Joints and Components', Internationa
 Book
 How to - Analyse Composites,W Marsden & D J Irving, NAFEMS Ltd., 2002
 
-Book
-How to - Do Seismic Analysis Using Finite Elements. NAFEMS, 2007. Part I
+* *Book* How to - Do Seismic Analysis Using Finite Elements. NAFEMS, 2007. Part I
 
 Book
 How to - Do Seismic Analysis Using Finite Elements. NAFEMS, 2007. Part II
@@ -1129,10 +1128,11 @@ ev
 Details of each module:
 
 
-FEA - Finite Elements Analysis (Core Module)
-
+### FEA - Finite Elements Analysis (Core Module)
 FEApr1 - All learning outcomes in category MESM as appropriate to industry, application and level.
+
 FEApr2 - All learning outcomes in category BMPS as appropriate to industry, application and level.
+
 FEAkn1 - List the various steps in the analysis/simulation process.
 FEAkn2 - Define the meaning of degree of freedom.
 FEAkn3 - List the nodal degrees of freedom and the associated force actions for common beam, 2D solid, 2D axisymmetric, 3D solid and shell elements, for the Displacement ...
@@ -1221,7 +1221,7 @@ FEAev3 - Assess the significance of simplifying geometry, material models, loads
 FEAev4 - Manage A&S related physical and human resources within an organisation; in an effective manner.
 FEAev5 - Manage verification and validation procedures in support of FEA.
 
-MESM - Mechanics, Elasticity and Strength of Materials
+### MESM - Mechanics, Elasticity and Strength of Materials
 
 MESMpr1 - Appropriate levels of Maths and Physics, including matrices and calculus.
 MESMkn1 - Define the variation in hydrostatic pressure with fluid depth.
@@ -1310,7 +1310,7 @@ MESMev1 - Select appropriate validation measures.
 
 MESMev2 - Specify appropriate failure criteria for pressure components.
 
-MAS - Materials for Analysis and Simulation
+### MAS - Materials for Analysis and Simulation
 
 MASpr1 - Appropriate level of Physics, Chemistry and Materials Science.
 
@@ -1384,7 +1384,7 @@ MASsy1 - Specify appropriate material properties and constitutive laws for model
 
 MASev1 - Assess the significance of simplifying material behaviour on the objectives of analyses.
 
-FAT - Fatigue
+### FAT - Fatigue
 
 FATpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -1526,7 +1526,7 @@ FATev3 - Assess the need for consideration of fatigue-creep interaction.
 
 FATev4 - Assess the need for Ratcheting assessment.
 
-FAFM - Flaw Assessment and Fracture Mechanics
+### FAFM - Flaw Assessment and Fracture Mechanics
 
 FAFMpr1 - All learning outcomes in category FAT as appropriate to industry, application and level.
 
@@ -1644,7 +1644,7 @@ FAFMsy1 - Specify an appropriate course of action after flaw assessment.
 
 FAFMev1 - Select appropriate FM strategies.
 
-NGEC - Nonlinear Geometric Effects and Contact
+### NGEC - Nonlinear Geometric Effects and Contact
 
 NGECpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -1708,7 +1708,7 @@ NGECev2 - Select appropriate solution schemes for geometrically non-linear probl
 
 NGECev3 - Assess whether element distortion effects are affecting the quality of solution and take appropriate remedial action where necessary.
 
-BMPS - Beams, Membranes, Plates and Shells
+### BMPS - Beams, Membranes, Plates and Shells
 
 BMPSpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -1816,7 +1816,7 @@ BMPSev2 - Select suitable idealisations for welded, bonded, riveted and bolted j
 
 BMPSev3 - Assess whether shear deformation effects are significant.
 
-DV - Dynamics and Vibration
+### DV - Dynamics and Vibration
 
 DVpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -2008,7 +2008,7 @@ DVev2 - Assess the significance of neglecting any feature or detail in any dynam
 
 DVev3 - Assess the significance of simplifying geometry, material models, mass, loads or boundary conditions and damping assumptions on a dynamic analysis.
 
-OPT - Optimisation
+### OPT - Optimisation
 
 OPTpr1 - Statements of competence in category FEA, CFD and other relevant modules as appropriate to application and level.
 
@@ -2214,7 +2214,7 @@ OPTev6 - Justify an optimum design based on its applicability to manufacture and
 
 OPTev7 - Assess the application and effectiveness of using EXCEL Solver, MATLAB, open source or programmatic in-house solutions to an optimization problem as an alternati...
 
-PLAS - Plasticity
+### PLAS - Plasticity
 
 PLASpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -2352,7 +2352,7 @@ PLASev3 - Assess the significance of neglecting any feature or detail in any non
 
 PLASev4 - Assess the significance of simplifying geometry, material models, mass, loads or boundary conditions, on a non linear material analysis.
 
-CFD - Computational Fluid Dynamics (Core Module)
+### CFD - Computational Fluid Dynamics (Core Module)
 
 CFDpr1 - Appropriate levels of Maths and Physics.
 
@@ -2444,7 +2444,7 @@ CFDev2 - Appraise the use of a range of different CFD codes for flow simulation 
 
 CFDev3 - Assess whether a CFD solution can be decoupled from other phenomena.
 
-TMB - Thermo-Mechanical Behaviour
+### TMB - Thermo-Mechanical Behaviour
 
 TMBpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -2540,7 +2540,7 @@ TMBev3 - Assess the significance of neglecting any feature or detail in any ther
 
 TMBev4 - Assess the significance of simplifying geometry, material models, mass, loads or boundary conditions, on a thermal stress analysis.
 
-MG - Management General
+### MG - Management General
 
 SIMMpr1 - Product Awareness - Regulations, Standards, Design Codes
 
@@ -2670,7 +2670,7 @@ SIMMev24 - MG - Manage effectively a quality management system for simulation.
 
 SIMMev25 - MG - Assess a simulation supplier organization for accreditation/qualification purposes
 
-V&V - Verification and Validation
+### V&V - Verification and Validation
 
 SIMMkn6 - V&V - State simulation V&V principles
 
@@ -2792,7 +2792,7 @@ SIMMsy12 - CADCAE - Construct procedures for the effective integration of CAD an
 
 SIMMev12 - CADCAE - Select appropriate software solutions to improve the CAD-CAE interface in your organization.
 
-SPDM - Simulation Process Data Management
+### SPDM - Simulation Process Data Management
 
 SIMMkn12 - SPDM - State applicable material data for the relevant analysis(*).
 
@@ -2928,7 +2928,7 @@ SIMMev22 - SPDM - Assess appropriate hardware and software solutions to meet the
 
 SIMMev23 - SPDM - Design a simulation data model for your organization.
 
-BIN - Buckling and Instability
+### BIN - Buckling and Instability
 
 BINpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -3018,7 +3018,7 @@ BINev4 - Select appropriate solution schemes for buckling problems.
 
 BINev5 - Assess the significance of neglecting any feature or detail in any buckling idealisation.
 
-MPHY - Multi-physics Analysis
+### MPHY - Multi-physics Analysis
 
 MPHYpr1 - Appropriate levels of Maths, Physics, Engineering Analysis and application.
 
@@ -3074,7 +3074,7 @@ MPHYev3 - Assess appropriate hardware and software solutions (including single p
 
 MPHYev4 - Evaluate the final results to ensure the validity of the outcome of Multi-physics approach
 
-CMP - Composite Materials and Structures
+### CMP - Composite Materials and Structures
 
 CMPSpr1 - All learning outcomes in category FEA as appropriate to industry, application and level.
 
@@ -3180,7 +3180,7 @@ CMPSev2 - Specify appropriate failure criteria for a range of analyses.
 
 CMPSev3 - Evaluate the results of FEA with respect to the requirements of Codes of Practice.
 
-FHFMT - Fundamentals of Flow, Porous Media, Heat Transfer
+### FHFMT - Fundamentals of Flow, Porous Media, Heat Transfer
 
 FHFMTpr1 - Appropriate levels of Maths and Physics.
 
@@ -3432,7 +3432,7 @@ FHFMTev4 - Assess the use of correlations for the convective heat transfer coeff
 
 FHFMTev4b - Evaluate the results from a heat and mass transfer analysis to determine if they are fit for purpose.
 
-CTD - Creep and Time-Dependency
+### CTD - Creep and Time-Dependency
 
 CTDpr1 - All learning outcomes in category FEA as appropriate to level.
 
@@ -3524,7 +3524,7 @@ CTDev3 - Assess the significance of simplifying geometry, material models, mass,
 
 CTDev4 - Select appropriate solution schemes for time dependent problems.
 
-MSA - Multi-Scale Analysis
+### MSA - Multi-Scale Analysis
 
 MSApr1 - Learning outcomes in FEA as appropriate to application
 
@@ -3626,7 +3626,7 @@ MSAev6 - Assess appropriate hardware and software requirements to meet the needs
 
 MSAev7 - Coupling approaches for multiscale analysis can be classified as sequential or concurrent. Describe the advantages and disadvantages of each.
 
-PROB - Probabilistic Analysis
+### PROB - Probabilistic Analysis
 
 PROBpr1 - Appropriate levels of Maths (including Statistics) and Physics.
 
@@ -3730,7 +3730,7 @@ PROBev3 - Provide effective specialist advice on probabilistic methods and non-d
 
 PROBev4 - Assess hardware and software solutions to meet the needs of planned probabilistic studies.
 
-NAV - Noise, Acoustics and Vibro-Acoustics
+### NAV - Noise, Acoustics and Vibro-Acoustics
 
 NAVpr1 - Appropriate levels of Maths and Physics.
 
@@ -3854,7 +3854,7 @@ NAVev5 - Justify the appropriateness of acoustic source models in noise and acou
 
 NAVev6 - Assess whether structural / acoustic coupling is significant in any simulation.
 
-ELMA - Electromagnetics
+### ELMA - Electromagnetics
 
 ELMApr1 - Appreciation of engineering maths at undergraduate level.
 
@@ -4074,7 +4074,7 @@ ELMAev21 - Provide effective specialist advice on electromagnetic simulation to 
 
 ELMAev22 - Assess appropriate hardware and software solutions to meet the needs of planned electromagnetic studies.
 
-MBDY - Multi-body Dynamics
+### MBDY - Multi-body Dynamics
 
 MBDYpr1 - Appropriate levels of Maths: Vector algebra, matrix algebra, ODEs.
 
@@ -4202,5 +4202,3 @@ MBDYev2 - Provide effective specialist advice on Multi-Body Dynamic Analysis to 
 MBDYev3 - Assess the hardware, software, and personnel resources required to support Multi-Body Dynamic Analysis activities
 
 MBDYev4 - Identify benefits arising from the use of Multi-Body Dynamic Analysis
-
-
