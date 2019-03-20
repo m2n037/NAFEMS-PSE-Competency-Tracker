@@ -46,6 +46,10 @@ Track and log my understanding of the NAFEMS Profession Simulation Engineer (PSE
 * INT - PLM Integration and CAD-CAE Collaboration
 * SPDM - Simulation Process Data Management
 
+## Other Details 
+
+[Informative PPT](https://www.nafems.org/downloads/resource_center/web_apr_15_americas_-_addressing_professional_development_in_the_simulation_industry.pdf/)
+
 ## Recommended Resources
 * *Code of practice* 2007 ASME Boiler & Pressure Vessel Code, Section VIII Rules for Construction of Pressure Vessels, The American Society of Mechanical Engineers, New York, July 1, 2007.
 * *Book* A critical evaluation of plastic behaviour data and a united definition of plastic loads for pressure vessel components, Gerdeen JC, Welding Research Council Bulletin, 1979;
