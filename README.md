@@ -3,48 +3,48 @@ Track and log my understanding of the NAFEMS Profession Simulation Engineer (PSE
 
 ## TOPICS 
 ### Mechanics
-* MESM - Mechanics, Elasticity and Strength of Materials \n
-* BMPS - Beams, Membranes, Plates and Shells \n
-* BIN - Buckling and Instability \n
+* MESM - Mechanics, Elasticity and Strength of Materials
+* BMPS - Beams, Membranes, Plates and Shells
+* BIN - Buckling and Instability
 
 ### FEA
-* FEA - Finite Elements Analysis (Core Module) \n
-* MAS - Materials for Analysis and Simulation \n
-* NGEC - Nonlinear Geometric Effects and Contact \n
-* PLAS - Plasticity \n
+* FEA - Finite Elements Analysis (Core Module)
+* MAS - Materials for Analysis and Simulation
+* NGEC - Nonlinear Geometric Effects and Contact
+* PLAS - Plasticity
 
 ### Dynamic Effects
-* CTD - Creep and Time-Dependency \n
-* FAT - Fatigue \n
-* FAFM - Flaw Assessment and Fracture Mechanics \n
-* CMP - Composite Materials and Structures \n
+* CTD - Creep and Time-Dependency
+* FAT - Fatigue
+* FAFM - Flaw Assessment and Fracture Mechanics
+* CMP - Composite Materials and Structures
 
 ### Statistics
-* PROB - Probabilistic Analysis \n
-* V&V - Verification and Validation \n
+* PROB - Probabilistic Analysis
+* V&V - Verification and Validation
 
 ### Dynamics
-* DV - Dynamics and Vibration \n
-* NAV - Noise, Acoustics and Vibro-Acoustics \n
-* MBDY - Multi-Body Dynamics \n
+* DV - Dynamics and Vibration
+* NAV - Noise, Acoustics and Vibro-Acoustics
+* MBDY - Multi-Body Dynamics
 
 ### Optimization
-* OPT - Optimisation \n
+* OPT - Optimisation
 
 ### CFD
-* CFD - Computational Fluid Dynamics (Core Module) \n
-* FHFMT - Fundamentals of Flow, Porous Media, Heat Transfer \n
+* CFD - Computational Fluid Dynamics (Core Module)
+* FHFMT - Fundamentals of Flow, Porous Media, Heat Transfer
 
 ### Multi-physics
-* MPHY - Multi-physics Analysis \n
-* MSA - Multi-Scale Analysis \n
-* TMB - Thermo-Mechanical Behaviour \n
-* ELMA - Electromagnetics \n
+* MPHY - Multi-physics Analysis
+* MSA - Multi-Scale Analysis
+* TMB - Thermo-Mechanical Behaviour
+* ELMA - Electromagnetics
 
 ### Engineering Management
-* MG - Management General \n
-* INT - PLM Integration and CAD-CAE Collaboration \n
-* SPDM - Simulation Process Data Management \n
+* MG - Management General
+* INT - PLM Integration and CAD-CAE Collaboration
+* SPDM - Simulation Process Data Management
 
 ## Recommended Resources
 * *Code of practice* 2007 ASME Boiler & Pressure Vessel Code, Section VIII Rules for Construction of Pressure Vessels, The American Society of Mechanical Engineers, New York, July 1, 2007.
@@ -53,58 +53,29 @@ Track and log my understanding of the NAFEMS Profession Simulation Engineer (PSE
 * *Book* A Finite Element Dynamic Primer, Dennis Hitchings, NAFEMS, Glasgow, 1992
 * *Book* A Finite Element Primer, NAFEMS, ISBN 0-903640-17-1, 1986
 * *Book* A Finite Element Primer. NAFEMS, 2003
-
-Article
-A New Arc-length Method for Handling Sharp Snap Backs, H.-B. Hellweg & M. A. Crisfield, Computers & Structures, Vol. 66, No. 5, 705-709, 1998.
-Book
-A plastic load criterion for inelastic design by analysis, Mackenzie et al, ASME, Journal Pressure Vessel Tech., 2006
-Book
-A Shorter Intermediate Mechanics, D. Humphrey & J Topping, Longmans Green & Co. London, 1955.
-Book
-A study on plastic shakedown of structures: Part II, Polizzotto C, Trans ASME, J. Appl. Mech., 1993.
-Book
-A Treatise on the Mathematical Theory of Elasticity, 4th Edition, A. E. H. Love, Dover Publications, Inc.,1944.
-Book
-A Work criterion for Plastic Collapse, M Muscat et al, Int. J. Pressure Vessels & Piping, 80, 2003.
-Book
-A. A. Shabana, Dynamics of Multibody Systems, Cambridge University Press
-Book
-A.A. Shabana: Vibration of Discrete and Continuous Systems. Second Edition, Springer-Verlag New York, Inc., 1997.
-Book
-Ab Initio Molecular Dynamics, Marx, D, Hutter J, Pub Cambridge University Press (2009)
-Book
-Advanced Finite Element Contact Benchmarks, A. Konter [2006], NAFEMS, Glasgow, Document Ref. R0094.
-
-Book
-Advanced mechanics of materials, Boresi et al, John Wiley and Sons, ISBN 0471-60009-1, 1993.
-Book
-Advanced Strength of Materials, J. P. Den Hartog, McGraw-Hill Book Company Inc., ISBN 07-016400-2.
-Book
-Advanced Workbook of Examples (Volume 1), Modelling adhesively bonded joints, T Dickerson, NAFEMS Ltd, Report R0078, 2001.
-
-Book
-Advanced Workbook of Examples and Case Studies (Volume 2), Investigation of screw thread pre-loads using three dimensional finite element analysis, R Johnson, NAFEMS Ltd Report R0086, 2003.
-
-Book
-AIAA, Guide for the Verification and Validation of Computational Fluid Dynamics Simulations. 1998, American Institute of Aeronautics and Astronautics, AIAA-G-077-1998.
-Book
-Altair Optimization Handbook.
-Book
-An Analysis of the Finite Element Method, Gilbert Strang & George J. Fix , Prentice Hall, Inc., ISBN 0-13-032946-0
-Article
-An assessment of primary system stresses on the creep behaviour of high temperature steam piping systems, Carmichael GDT, Proc Instn Mech Engrs Vol 200, No A3, pp 197-204, 1986
-Book
-An Introduction to Computational Fluid Dynamics; The Finite Volume Method, 2nd edition, 2007, Versteeg, H.K. and Malalasekera, W., Pearson Education, ISBN 978-013-127498-3
-Book
-An Introduction to Modelling Buckling and Collapse, Brian G. Falzon & Dennis Hitchings, NAFEMS Ltd, ISBN 1 874 376 18 2, 2006.
-
-Book
-An introduction to modelling buckling and collapse, Falzon BG and Hitchings D, NAFEMS, ISBN-1 874 376 06 9, 2005.
-
-Book
-An Introduction to Structural OptimizationP.W. Christensen. A. Klarbring. Springer 2nd Ed. 2009 ISBN 978-1-4020-8665-6
-Book
-An Introduction to the Use of Material Models in FE, Nawal K. Prinja & Anup K. Puri, NAFEMS Ltd, 2005, ISBN-1: 875376069
+* Article A New Arc-length Method for Handling Sharp Snap Backs, H.-B. Hellweg & M. A. Crisfield, Computers & Structures, Vol. 66, No. 5, 705-709, 1998.
+* Book A plastic load criterion for inelastic design by analysis, Mackenzie et al, ASME, Journal Pressure Vessel Tech., 2006
+* Book A Shorter Intermediate Mechanics, D. Humphrey & J Topping, Longmans Green & Co. London, 1955.
+* Book A study on plastic shakedown of structures: Part II, Polizzotto C, Trans ASME, J. Appl. Mech., 1993.
+* Book A Treatise on the Mathematical Theory of Elasticity, 4th Edition, A. E. H. Love, Dover Publications, Inc.,1944.
+* Book A Work criterion for Plastic Collapse, M Muscat et al, Int. J. Pressure Vessels & Piping, 80, 2003.
+* Book A. A. Shabana, Dynamics of Multibody Systems, Cambridge University Press
+* Book A.A. Shabana: Vibration of Discrete and Continuous Systems. Second Edition, Springer-Verlag New York, Inc., 1997.
+* Book Ab Initio Molecular Dynamics, Marx, D, Hutter J, Pub Cambridge University Press (2009)
+* Book Advanced Finite Element Contact Benchmarks, A. Konter [2006], NAFEMS, Glasgow, Document Ref. R0094.
+* Book Advanced mechanics of materials, Boresi et al, John Wiley and Sons, ISBN 0471-60009-1, 1993.
+* Book Advanced Strength of Materials, J. P. Den Hartog, McGraw-Hill Book Company Inc., ISBN 07-016400-2.
+* Book Advanced Workbook of Examples (Volume 1), Modelling adhesively bonded joints, T Dickerson, NAFEMS Ltd, Report R0078, 2001.
+* Book Advanced Workbook of Examples and Case Studies (Volume 2), Investigation of screw thread pre-loads using three dimensional finite element analysis, R Johnson, NAFEMS Ltd Report R0086, 2003.
+* Book AIAA, Guide for the Verification and Validation of Computational Fluid Dynamics Simulations. 1998, American Institute of Aeronautics and Astronautics, AIAA-G-077-1998.
+* Book Altair Optimization Handbook.
+* Book An Analysis of the Finite Element Method, Gilbert Strang & George J. Fix , Prentice Hall, Inc., ISBN 0-13-032946-0
+* Article An assessment of primary system stresses on the creep behaviour of high temperature steam piping systems, Carmichael GDT, Proc Instn Mech Engrs Vol 200, No A3, pp 197-204, 1986
+* Book An Introduction to Computational Fluid Dynamics; The Finite Volume Method, 2nd edition, 2007, Versteeg, H.K. and Malalasekera, W., Pearson Education, ISBN 978-013-127498-3
+* Book An Introduction to Modelling Buckling and Collapse, Brian G. Falzon & Dennis Hitchings, NAFEMS Ltd, ISBN 1 874 376 18 2, 2006.
+* Book An introduction to modelling buckling and collapse, Falzon BG and Hitchings D, NAFEMS, ISBN-1 874 376 06 9, 2005.
+* Book An Introduction to Structural OptimizationP.W. Christensen. A. Klarbring. Springer 2nd Ed. 2009 ISBN 978-1-4020-8665-6
+* Book An Introduction to the Use of Material Models in FE, Nawal K. Prinja & Anup K. Puri, NAFEMS Ltd, 2005, ISBN-1: 875376069
 
 Article
 Analysis and Stability of Floating Roofs, Pages 1037-1052, G. C. Mitchell, The Journal of Engineering Mechanics Division, ASCE, Volume 99. 1973.
@@ -1128,118 +1099,227 @@ FEApr1 - All learning outcomes in category MESM as appropriate to industry, appl
 FEApr2 - All learning outcomes in category BMPS as appropriate to industry, application and level.
 
 FEAkn1 - List the various steps in the analysis/simulation process.
+
 FEAkn2 - Define the meaning of degree of freedom.
+
 FEAkn3 - List the nodal degrees of freedom and the associated force actions for common beam, 2D solid, 2D axisymmetric, 3D solid and shell elements, for the Displacement ...
+
 FEAkn4 - Define the meaning of adaptive mesh refinement
+
 FEAkn5 - State the variational principle involved in the formulation of the Displacement Finite Element Method and identify the solution quantity assumed within each elem...
+
 FEAkn6 - State the variational principle involved in the formulation of the Equilibrium Finite Element Method and identify the solution quantity assumed within each eleme...
+
 FEAkn7 - Name other finite element methods.
+
 FEAkn8 - List the requirements for an axisymmetric analysis to be valid.
+
 FEAkn9 - List the degrees of freedom to be constrained on a symmetric boundary.
+
 FEAkn10 - List the degrees of freedom to be constrained on a asymmetric boundary.
+
 FEAkn11 - Sketch problems showing the various form of symmetry.
+
 FEAkn12 - List the advantages of using symmetry.
+
 FEAkn13 - State the word length or arithmetic precision of calculations for any system used.
+
 FEAkn14 - List the possible advantages of applying material properties, loads and boundary conditions to underlying geometry rather than to finite element entities.
+
 FEAkn15 - List 2 common solvers for large sets of simultaneous equations.
+
 FEAkn16 - List the various forms of element distortion.
+
 FEAkn17 - List the various element types commonly used in the analysis of components within your organisation.
+
 FEAco1 - Describe the sources of error inherent in finite element analysis, in general terms.
+
 FEAco2 - Discuss checks that may be used post-solution to check for the presence of inaccuracy.
+
 FEAco3 - Explain the term solution residual.
+
 FEAco4 - Explain the meaning of convergence, including h and p types.
+
 FEAco5 - Discuss the difficulties that can arise in using a CAD model as the basis for carrying out analysis and simulation.
+
 FEAco6 - Discuss the need for a consistent set of units in any analysis and illustrate possible pitfalls.
+
 FEAco7 - Explain why strains and stresses are generally less accurate than displacements for any given mesh of elements, using the Displacement FEM.
+
 FEAco8 - Discuss the validity of using symmetry techniques to model non-symmetric problems.
+
 FEAco9 - Explain the meaning of the term ill-conditioned when used in the context of a set of solution equations and illustrate physical situations where this might refle...
+
 FEAco10 - Describe why incompressible or nearly-incompressible elastic media can cause difficulties with analysis.
+
 FEAco11 - Discuss the finite element / spring analogy.
+
 FEAco12 - Outline a common method employed to solve the large sets of sparse symmetric common in FEA.
+
 FEAco13 - Explain how the structural stiffness matrix is assembled from the individual element matrices.
+
 FEAco14 - Discuss the nature of the structural stiffness matrix.
+
 FEAco15 - Discuss the integral equation for element stiffness, highlighting the variables which it is dependent upon.
+
 FEAco16 - Discuss the salient features of the integral equation for Consistent Nodal Loading.
+
 FEAco17 - Explain the process of Gaussian Quadrature and the terms Reduced Integration, Shear Locking and Mechanisms.
+
 FEAco18 - Explain the term Isoparametric Element.
+
 FEAco19 - Discuss the general requirements for suitable Displacement Functions.
+
 FEAco20 - Discuss the terms C0 and C1 Continuity.
+
 FEAco21 - Describe the Patch Test and explain its significance.
+
 FEAco22 - Explain why displacement elements may not always lead to a behaviour that is too stiff in practice.
+
 FEAco23 - Explain the Equilibrium and Compatibility conditions, normally found within and between displacement elements.
+
 FEAco24 - Discuss the relationship between shape function and strain/stress prediction for simple 2D linear and parabolic elements.
+
 FEAco25 - Explain the term Bubble Function or Nodeless Variable.
+
 FEAco26 - Discuss the significance of computer memory to solution elapse time for large models.
+
 FEAco27 - Explain how unwanted cracks can be produced in 2D and 3D solid meshes and describe which plot type is useful in detecting these.
+
 FEAco28 - Explain why element distortion generally results in poorer results.
+
 FEAco29 - Discuss the term Flying Structure or Insufficiently Constrained Structure.
+
 FEAco30 - Explain why stress averaging is not appropriate at junctions between elements of different thickness.
+
 FEAco31 - Explain why most finite elements do not represent a circular boundary exactly and highlight how this approximation manifests itself.
+
 FEAco32 - Explain the concept of substructuring, where applicable and highlight common limitations of use.
+
 FEAco33 - Describe the process of nested or submodelling.
+
 FEAco34 - Explain the term hybrid model and highlight potential difficulties with such an approach.
+
 FEAco35 - Discuss the terms Validation and Verification and highlight their importance.
+
 FEAco36 - Discuss how developments in computing power and system functionality are affecting modelling strategies, highlighting techniques that are falling into disuse.
+
 FEAco37 - Discuss modelling issues related to wind, sea, and other relevant forms of stochastic loading.
+
 FEAco38 - Outline how Initial Strains and Initial Stresses are commonly handled in the finite element solution.
+
 FEAco39 - Discuss the Geometric Stiffness Matrix and highlight situations where it becomes important.
+
 FEAco40 - Explain the rationale behind the use of 1-D, 2-D and 3-D elements used in the analysis of components within your organisation.
+
 FEAap1 - Employ an analysis system for the determination of stresses and strains in small displacement, linear elastic problems.
+
 FEAap2 - Demonstrate effective use of available results presentation facilities.
+
 FEAap3 - Illustrate the approximate nature of finite element analysis, through examples chosen from your industry sector.
+
 FEAap4 - Illustrate the various steps in the Displacement Finite Element Method from assumed displacement polynomial to determination of stresses.
+
 FEAap5 - Illustrate possible applications of 0D, 1D, 2D and 3D elements in your industry sector.
+
 FEAap6 - Illustrate how you might apply a moment to a model consisting of 2D or 3D solids.
+
 FEAap7 - Employ symmetric boundary conditions effectively.
+
 FEAap8 - Employ asymmetric boundary conditions effectively.
+
 FEAap9 - Employ cyclic symmetric boundary conditions effectively, where appropriate.
+
 FEAap10 - Illustrate various physical situations which will result in a Stress Singularity and explain why it is not appropriate to use finite element results at such loc...
+
 FEAap11 - Illustrate consistent nodal loadings for uniform loading on a range of common linear and quadratic shell, 2D and 3D solid elements and note any unusual features...
+
 FEAap12 - Employ a range of post-solution checks to determine the integrity of FEA results.
+
 FEAap13 - Conduct validation studies in support of FEA.
+
 FEAap14 - Carry out sensitivity studies.
+
 FEAan1 - Analyse the results from small displacement, linear static analyses and determine whether they satisfy inherent assumptions.
+
 FEAan2 - Compare the results from small displacement, linear elastic analyses with allowable values and comment on findings.
+
 FEAan3 - Analyse the results from sensitivity studies and draw conclusions from trends.
+
 FEAsy1 - Prepare an analysis specification, including modelling strategy, highlighting any assumptions relating to geometry, loads, boundary conditions and material prope...
+
 FEAsy2 - Develop an analysis strategy that enables the relative significance of individual model parameters and their interactions to be evaluated.
+
 FEAsy3 - Plan an analysis, specifying necessary resources and timescale.
+
 FEAsy4 - Prepare quality assurance procedures for finite element analysis activities within an organisation.
+
 FEAsy5 - Contribute to planning related to the effective development of analysis facilities.
+
 FEAsy6 - Contribute to the development of a competency process that supports staff technical development.
+
 FEAsy7 - Formulate a series of smaller studies, benchmarks or experimental tests in support of a FEA modelling strategy.
+
 FEAsy8 - Prepare a validation plan in support of a FEA study.
+
 FEAev1 - Select appropriate idealisation(s) for components / structures, which are consistent with the objectives of the analyses.
+
 FEAev2 - Assess the significance of neglecting any feature or detail in any idealisation.
+
 FEAev3 - Assess the significance of simplifying geometry, material models, loads or boundary conditions.
+
 FEAev4 - Manage A&S related physical and human resources within an organisation; in an effective manner.
+
 FEAev5 - Manage verification and validation procedures in support of FEA.
 
 ### MESM - Mechanics, Elasticity and Strength of Materials
 
 MESMpr1 - Appropriate levels of Maths and Physics, including matrices and calculus.
+
 MESMkn1 - Define the variation in hydrostatic pressure with fluid depth.
+
 MESMkn2 - Define Buoyancy Force.
+
 MESMkn3 - Define the Work Done by a Force and a Couple.
+
 MESMkn4 - State the Principles of Virtual Work, Least Work and Castigliano's Theorem.
+
 MESMkn5 - State the Principle of Minimum Potential Energy.
+
 MESMkn6 - Sketch the graph of force versus deflection for a linear elastic spring and identify the potential energy and the complementary energy.
+
 MESMkn7 - State the equation for Gravitational Potential Energy.
+
 MESMkn8 - State Newton's 1st, 2nd and 3rd Laws.
+
 MESMkn9 - Sketch a general 3D stress element showing all stress components.
+
 MESMkn10 - Sketch Mohr Circle for a simple tensile test specimen, illustrating the plane of maximum shear.
+
 MESMkn11 - Define Hooke's Law.
+
 MESMkn12 - Define Poisson's Ratio.
+
 MESMkn13 - Define the relationship between Young's Modulus, Poisson's Ratio and Shear Modulus.
+
 MESMkn14 - Sketch the through-thickness shear stress distribution in a rectangular beam subjected to a shearing load.
+
 MESMkn15 - List the equations for the hoop and longitudinal stresses in an internally pressurised thin sphere and a thin cylinder with remote end closures.
+
 MESMkn16 - Sketch the contact normal stress distribution for a circular pin in lug with a circular hole.
+
 MESMkn17 - List the section properties for a range of common shapes, including hollow circular.
+
 MESMkn18 - List various Failure Hypotheses / Criteria.
+
 MESMkn19 - State an appropriate failure criteria for brittle materials.
+
 MESMkn20 - Define Tresca and von Mises Stress for a 3D stress state.
+
 MESMkn21 - State the elastic Constitutive Relations in 2D, for a homogeneous, isotropic material.
+
 MESMkn22 - State the radial stress boundary conditions at the inner and outer surfaces of an internally pressurised cylinder or sphere.
+
 MESMkn23 - List various experimental methods of strain measurement and failure monitoring.
 
 MESMco1 - Discuss the term Rigid Body and explain its significance in relation to any analysis.
@@ -1377,6 +1457,7 @@ MASan1 - Assess the results from analysis and simulation and determine whether t
 MASsy1 - Specify appropriate material properties and constitutive laws for models, which are consistent with the materials being used in the environment being modelled an...
 
 MASev1 - Assess the significance of simplifying material behaviour on the objectives of analyses.
+
 
 ### FAT - Fatigue
 
@@ -1519,6 +1600,7 @@ FATev2 - Assess the fatigue significance of simplifying geometry, material model
 FATev3 - Assess the need for consideration of fatigue-creep interaction.
 
 FATev4 - Assess the need for Ratcheting assessment.
+
 
 ### FAFM - Flaw Assessment and Fracture Mechanics
 
