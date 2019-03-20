@@ -47,18 +47,12 @@ Track and log my understanding of the NAFEMS Profession Simulation Engineer (PSE
 * SPDM - Simulation Process Data Management \n
 
 ## Recommended Resources
-* 'Code of practice' 2007 ASME Boiler & Pressure Vessel Code, Section VIII Rules for Construction of Pressure Vessels, The American Society of Mechanical Engineers, New York, July 1, 2007.
-* [Book] A critical evaluation of plastic behaviour data and a united definition of plastic loads for pressure vessel components, Gerdeen JC, Welding Research Council Bulletin, 1979;
-Article
-A Fast Incremental/Iterative Solution Procedure that Handles "Snap Through", M. A. Crisfield, Computers & Structures, Vol. 13, 55-66, 1981.
-Book
-A Finite Element Dynamic Primer, Dennis Hitchings, NAFEMS, Glasgow, 1992
-
-Book
-A Finite Element Primer, NAFEMS, ISBN 0-903640-17-1, 1986
-
-Book
-A Finite Element Primer. NAFEMS, 2003
+* *Code of practice* 2007 ASME Boiler & Pressure Vessel Code, Section VIII Rules for Construction of Pressure Vessels, The American Society of Mechanical Engineers, New York, July 1, 2007.
+* *Book* A critical evaluation of plastic behaviour data and a united definition of plastic loads for pressure vessel components, Gerdeen JC, Welding Research Council Bulletin, 1979;
+* *Article* A Fast Incremental/Iterative Solution Procedure that Handles "Snap Through", M. A. Crisfield, Computers & Structures, Vol. 13, 55-66, 1981.
+* *Book* A Finite Element Dynamic Primer, Dennis Hitchings, NAFEMS, Glasgow, 1992
+* *Book* A Finite Element Primer, NAFEMS, ISBN 0-903640-17-1, 1986
+* *Book* A Finite Element Primer. NAFEMS, 2003
 
 Article
 A New Arc-length Method for Handling Sharp Snap Backs, H.-B. Hellweg & M. A. Crisfield, Computers & Structures, Vol. 66, No. 5, 705-709, 1998.
